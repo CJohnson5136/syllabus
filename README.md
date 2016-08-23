@@ -11,6 +11,7 @@
    * [Email](mailto:barberboy@gmail.com) for 1-on-1 help, or to set up a time to meet
 
 This sentence is a distraction while I steal your shoes.
+This sentence is not.
 
 ### Homework Workflow
 
